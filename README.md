@@ -1,2 +1,2 @@
 # llmgoat
-Vulnerable LLM App 
+Vulnerable LLM App (Releasing Soon)
